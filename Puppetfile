@@ -16,3 +16,7 @@ mod 'concat',
 mod 'account',
   :git => 'git://github.com/torrancew/puppet-account',
   :ref => 'v0.0.5'
+
+mod 'andschwa/minecraft', '2.1.6'
+  :git => 'git://github.com/torrancew/puppet-account',
+  :ref => 'v0.0.5'
